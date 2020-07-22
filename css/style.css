@@ -1,0 +1,45 @@
+body{
+	margin: 0;
+}
+.banner1{
+	background-image: url(../images/110259033_2736961936577738_4827885650532092412_n.jpg);
+	text-align: center;
+	padding: 120px;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+.banner2{
+	background-image: url(../images/116114191_712424065981320_180030312487554384_n.jpg);
+	text-align: center;
+	padding: 120px;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.banner3{
+	background-image: url(../images/116045045_700927134032840_5909121113738064672_n.jpg);
+	text-align: center;
+	padding: 120px;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.banner4{
+	background-image: url(../images/116043562_702582273808082_1415332600429014391_n.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	text-align: center;
+	padding: 120px;
+}
+img{
+	max-width: 100%;
+}
+p{
+	font-size: 24px;
+	line-height: 1.6;
+	color: white;
+}
+.content-box{
+	background: #8eb6ca63;
+	padding: 50px;
+	color: #fff;
+}
